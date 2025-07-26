@@ -12,4 +12,5 @@ The team has currently tried two implementation methods:
 
 Document Description:
 1. notebook/ECE1508_GENAI_CVAE.ipynb: The implementation code of CVAE
-2. trained_model/: It contains the pre-trained model parameters for images of sizes 64 and 128 respectively.
+2. TODO:Pretrain_VAE, Modification of the latent space
+3. trained_model/: It contains the pre-trained model parameters for images of sizes 64 and 128 respectively.
