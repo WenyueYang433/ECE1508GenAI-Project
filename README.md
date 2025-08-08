@@ -13,7 +13,8 @@ Group Members: Lingyun Guo, Ruizhi Niu, Wenyue Yang, Yile Ji
 
 ## Operating environment and deployment:
 All the codes were completed using Colab, upload the notebook files to Colab and it will be ready to run.
-You can also view the output in /notebook.
+
+You can also view the input-output in /notebook.
 
 ## Document Description:
 | File Path                             | Type            | Description |
