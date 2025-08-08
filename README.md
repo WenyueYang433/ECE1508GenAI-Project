@@ -19,9 +19,9 @@ You can also view the input-output in /notebook.
 ## Document Description:
 | File Path                             | Type            | Description |
 |--------------------------------------|-----------------|-------------|
-| `/src/CVAE.ipynb`                    | Main Notebook   | Implements the CVAE + CLIP method for latent-guided image editing. Includes all outputs. |
-| `/src/Pretrain_VAE.ipynb`            | Main Notebook   | Implements AutoencoderKL and integrates all latent editing methods:<br>**linear shift**, **interpolation**, and **latent optimization**. |
+| `/notebook/CVAE.ipynb`                    | Main Notebook   | Implements the CVAE + CLIP method for latent-guided image editing. Includes all outputs. |
+| `/notebook/Pretrain_VAE.ipynb`            | Main Notebook   | Implements AutoencoderKL and integrates all latent editing methods:<br>**linear shift**, **interpolation**, and **latent optimization**. |
 | `/trained_model/conv_vae_512_64.pth` | Model Checkpoint| A trained **CVAE** model with input image size **64×64**. |
-| `/src/Interpolation.ipynb`          | Editing Method  | Attempts latent vector editing using **interpolation**. <br>_Integrated into `Pretrain_VAE.ipynb`._ |
-| `/src/Latent_Optimization_4.ipynb`  | Editing Method  | Attempts latent vector editing using **latent optimization**. <br>_Integrated into `Pretrain_VAE.ipynb`._ |
-| `/src/Linear_Shift.ipynb`           | Editing Method  | Attempts latent vector editing using **linear shift**. <br>_Integrated into `Pretrain_VAE.ipynb`._ |
+| `/notebook/Interpolation.ipynb`          | Editing Method  | Attempts latent vector editing using **interpolation**. <br>_Integrated into `Pretrain_VAE.ipynb`._ |
+| `/notebook/Latent_Optimization_4.ipynb`  | Editing Method  | Attempts latent vector editing using **latent optimization**. <br>_Integrated into `Pretrain_VAE.ipynb`._ |
+| `/notebook/Linear_Shift.ipynb`           | Editing Method  | Attempts latent vector editing using **linear shift**. <br>_Integrated into `Pretrain_VAE.ipynb`._ |
