@@ -1,11 +1,11 @@
 The team completed it using Colab. All the codes can be directly run in Colab.
 
 Here are all the files:
-/src/CVAE.ipynb：The implementation method using CVAE-CLIP, where you can see all the outputs.
-/src/Pretrain_VAE.ipynb：The implementation method using AutoencoderKL integrates all the latent editing methods (linear shift, interpolation, latent optimization)
+/notebook/CVAE.ipynb：The implementation method using CVAE-CLIP, where you can see all the outputs.
+/notebook/Pretrain_VAE.ipynb：The implementation method using AutoencoderKL integrates all the latent editing methods (linear shift, interpolation, latent optimization)
 trained_model/conv_vae_512_64.pth: This is a CVAE model trained with a 64x64 size.
 
 [The following 3 files have been integrated by Pretrain_VAE.]
-/src/Interpolation.ipynb： An attempt to edit the latent vectors using interpolation methods.
-/src/Latent_Optimization_4.ipynb：An attempt to edit the latent vectors using latent optimization.
-/src/Linear_Shift.ipynb：An attempt to edit the latent vectors using linear shift.
+/notebook/Interpolation.ipynb： An attempt to edit the latent vectors using interpolation methods.
+/notebook/Latent_Optimization_4.ipynb：An attempt to edit the latent vectors using latent optimization.
+/notebook/Linear_Shift.ipynb：An attempt to edit the latent vectors using linear shift.
