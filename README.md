@@ -12,7 +12,7 @@ Group Members: Lingyun Guo, Ruizhi Niu, Wenyue Yang, Yile Ji
 
 
 ## Operating environment and deployment:
-All the codes were completed using Colab, upload the notebook files to Colab and it will be ready to run.
+All the codes were completed using Colab, upload the notebook files to Colab and it will be ready to run. If it is running locally, check the "Install" section at the top of the main notebook file.
 
 You can also view the input-output in /notebook.
 
