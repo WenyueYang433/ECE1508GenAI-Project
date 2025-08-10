@@ -26,7 +26,7 @@ You can also view the input-output in /notebook.
 | `/notebook/Latent_Optimization_4.ipynb`  | Editing Method  | Attempts latent vector editing using **latent optimization**. <br>_Integrated into `Pretrain_VAE.ipynb`._ |
 | `/notebook/Linear_Shift.ipynb`           | Editing Method  | Attempts latent vector editing using **linear shift**. <br>_Integrated into `Pretrain_VAE.ipynb`._ |
 
-#References
+# References
 [1] D. P. Kingma and M. Welling, “An introduction to variational autoencoders,” Foundations and
 Trends® in Machine Learning, vol. 12, no. 4, p. 307–392, 2019.
 [2] K. Sohn, H. Lee, and X. Yan, “Learning structured output representation using deep condi-
